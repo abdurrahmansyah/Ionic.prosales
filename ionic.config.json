@@ -1,0 +1,7 @@
+{
+  "name": "prosales",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
